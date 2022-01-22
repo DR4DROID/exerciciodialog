@@ -1,0 +1,5 @@
+
+
+# Banco de Dados estoque
+1:CaboV8Kaidi:35,00:10
+2:Capa Celular Samsung S8:10,00:50
